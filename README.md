@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aparna-Tripathi
 - ⚡ I’m interested in: Software development
-- 🌱 I’m currently learning: salesforce CRM 
+- 🌱 I’m currently learning: Salesforce CRM 
 - 💞️ I’m looking to collaborate on: linkedin 
 - 📫 How to reach me: educationaparna@gmail.com
 - 😄 Pronouns: Apps 
